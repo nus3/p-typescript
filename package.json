@@ -1,0 +1,23 @@
+{
+  "name": "p-typescript",
+  "version": "1.0.0",
+  "author": "yota-hada <hadayota33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "10.0.0",
+    "typescript": "4.3.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "4.28.2",
+    "@typescript-eslint/parser": "4.28.2",
+    "eslint": "7.30.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-prettier": "3.4.0",
+    "prettier": "2.3.2"
+  },
+  "scripts": {
+    "typecheck": "tsc --pretty --noEmit",
+    "lint": "eslint src --ext ts --ext tsx --max-warnings 0",
+    "format": "prettier --write ."
+  }
+}
