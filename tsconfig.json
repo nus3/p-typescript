@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "types": ["ts-node"],
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"]
+}
