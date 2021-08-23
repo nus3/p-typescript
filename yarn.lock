@@ -73,10 +73,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nus3/practice@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@nus3/practice/-/practice-1.2.0.tgz#5abea9aa857d817ba3e6256c37377a401e9bb500"
-  integrity sha512-Fgm16l0JWxla7wSDXyJMYlahJWK+tG51QWq5R0YgDWaQwX29VtWzUraRp9jD1Xhr8732p8uPvPzkdrnkai98Ow==
+"@nus3/practice@1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@nus3/practice/-/practice-1.4.1.tgz#c5c89cda1d497a2ae7eb3ce71beea60929ce8690"
+  integrity sha512-amyWklOfj6RxNJSVft6eqqZGWALdEANr/2C7T+JPbj+XDAWWfjZKZx2C2/PFQKyjuh8BKcE4bPE5OoDsZ327rg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.8"
