@@ -4,6 +4,7 @@
   "author": "yota-hada <hadayota33@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@nus3/p-method": "1.0.0",
     "@nus3/practice": "1.4.1",
     "ts-node": "10.0.0",
     "typescript": "4.3.5"

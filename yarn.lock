@@ -73,6 +73,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@nus3/p-method@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@nus3/p-method/-/p-method-1.0.0.tgz#8b3ac5c06ad2747400855be982d82344b328271a"
+  integrity sha512-7A0+iT5dYVE+JY5X7XUztU531UeL2kZkSDUns8FTELAY84v8gWlcC+HWA8geQyU+gCVjw026nLo1CZ3QrgkNOA==
+
 "@nus3/practice@1.4.1":
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/@nus3/practice/-/practice-1.4.1.tgz#c5c89cda1d497a2ae7eb3ce71beea60929ce8690"
